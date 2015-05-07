@@ -1,2 +1,0 @@
-# compostandcompany
-NYC Compost GreenMap
