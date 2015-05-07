@@ -1,7 +1,7 @@
 Compost + Company
 =========
 
-###City food scrap collection & composting [map](https://mashcode.github.io/NYCompost/)
+###City food scrap collection & composting [map](http://compostandco.marcshifflett.com)
 
 Collect and map neighborhood food scrap diversion data using crowd-sourced metadata
 
@@ -95,10 +95,10 @@ _Cradle to Cradle: Remaking the way we make things,_ 2002. Michael Braungart and
 **Web Scraping & Mapping tools**
 
   * [Kimono Labs] (https://www.kimonolabs.com/)
-  * [Tabula PDF](http://tabula.technology/)
+  * [Tabula PDF](https://tabula.technology/)
   * [ScraperWiki] (https://scraperwiki.com/docs/developer/)
   * [QGIS Community](http://www2.qgis.org/en/site/getinvolved/index.html)
-  * [Cartodb]()
+  * [Cartodb](https://cartodb.com)
 
 **Reports**
 
