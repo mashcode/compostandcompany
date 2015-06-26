@@ -100,6 +100,9 @@ _Cradle to Cradle: Remaking the way we make things,_ 2002. Michael Braungart and
   * [QGIS Community](http://www2.qgis.org/en/site/getinvolved/index.html)
   * [Cartodb](https://cartodb.com)
 
+csv2geojson urban_ag_sites_geocoded.csv > urban_ag_sites_geocoded.geojson
+csv2geojson urban_ag_sites_geoclient.csv > urban_ag_sites_geoclient.geojson
+
 **Reports**
 
   * [CBC (Citizens Budget Commission) audit] (http://www.cbcny.org/sites/default/files/REPORT_GarbageFacts_05222014.pdf)
